@@ -1,0 +1,61 @@
+.container div{
+    box-sizing: border-box;
+    height: 100px;
+    background-color: red;
+}
+ .firstBox{
+
+ width: 100px;
+    
+}
+
+.secondBox{
+    width: 200px;
+    padding-left:100px;
+  
+}
+.thirdBox{
+    width: 300px;
+    padding-left: 200px;
+}
+.fourthBox{
+    width: 400px;
+    padding-left: 300px;
+}
+
+.firstBox div, .secondBox div, .thirdBox div, .fourthBox div{
+    box-sizing: border-box;
+    border: 10px solid tomato;
+    width: 100px;
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

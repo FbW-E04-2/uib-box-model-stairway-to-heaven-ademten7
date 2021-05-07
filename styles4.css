@@ -1,0 +1,60 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+
+}
+
+.container div{
+    box-sizing: border-box;
+    height: 100px;
+    
+   
+    
+}
+
+.d11, .d12{
+    border: 5px solid black;
+    width: 100px;
+    background-color: rgb(48, 48, 119);
+    display: inline-block;
+    
+   
+}
+.d12{
+  float: right;
+}
+.d21, .d22{
+    border: 5px solid black;
+    width: 100px;
+    background-color: rgb(48, 48, 119);
+    display: inline-block;
+}
+.d21{
+    margin-left:  100px;
+}
+.d31, .d32{
+    box-sizing: border-box;
+    border: 5px solid black;
+    width: 100px;
+    background-color: rgb(48, 48, 119);
+    display: inline-block;
+}
+.d31{
+    margin-left:  100px;
+}
+
+.d41,.d42{
+
+    border: 5px solid black;
+width: 100px;
+background-color: blue;
+display: inline-block;
+
+}
+.d42{
+    float:right;
+}
+
+
+

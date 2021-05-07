@@ -1,0 +1,45 @@
+.container{
+    box-sizing: border-box;
+    border: 10px solid hotpink;
+    margin:0 auto;
+    width: 1020px;
+    height: 1020px;
+    
+
+}
+
+.firstBox{
+    width:250px;
+    box-sizing: border-box;
+    height: 250px;
+    background-color: lawngreen;
+    margin-left: 75%;
+}
+
+.secondBox{
+   box-sizing:border-box;
+   border: 10px solid gray; 
+   width: 250px;
+   height: 250px;
+   background-color: greenyellow;
+   margin-left: 50% ;
+}
+
+.thirdBox{
+    box-sizing: border-box;
+    width: 250px;
+    box-sizing: border-box;
+    height: 250px;
+    background-color: lawngreen;
+    margin-left: 25%;
+
+}
+.fourthBox{
+    box-sizing:border-box;
+    border: 10px solid gray; 
+    width: 250px;
+    height: 250px;
+    background-color: greenyellow;
+    
+ }
+ 

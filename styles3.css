@@ -1,0 +1,31 @@
+
+.container{
+    width: 400px;
+    height:400px;
+}
+.container div{
+    box-sizing:border-box;
+    height: 100px;
+    background-color: green;
+}
+.d1{
+    width: 100px;
+    margin-left: 300px;
+  
+}
+.d2{
+    width: 200px;
+    margin-left: 200px;
+}
+.d3{
+    width: 300px;
+    margin-left: 100px;
+}
+
+.d1 div,.d2 div,.d3 div,.d4 div{
+    border: 5px solid black;
+    background-color: blue;
+    width: 100px;
+
+}
+
